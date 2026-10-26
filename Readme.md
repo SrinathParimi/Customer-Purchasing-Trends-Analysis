@@ -11,3 +11,6 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 ✅ Visualization & Insights (Power BI): Built an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
 
 ✅ Report and Presentation: Wrote a clear project report summarizing my key findings and business recommendations. Prepared a presentation that visually communicates insights and actionable recommendations to stakeholders.
+
+
+The screenshots of the generated PowerBI Dashboard are in the "Dashboard Screenshots Samples" folder.
